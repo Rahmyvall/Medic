@@ -19,5 +19,8 @@ Sistem mendukung pengelolaan stok obat, harga jual, serta pencatatan transaksi y
 Menyediakan tampilan data berupa laporan dan grafik untuk membantu analisis kinerja apotek atau klinik.
 
 🖼️ Tampilan Aplikasi
-
-<div class="row g-3"> <div class="col-md-6 col-lg-4"> <img src="{{ asset('template/img/3.jpg') }}" alt="Dashboard Medic" class="img-fluid rounded shadow-sm"> </div> <div class="col-md-6 col-lg-4"> <img src="{{ asset('template/img/4.jpg') }}" alt="Form Pasien" class="img-fluid rounded shadow-sm"> </div> <div class="col-md-6 col-lg-4"> <img src="{{ asset('template/img/5.jpg') }}" alt="Data Dokter" class="img-fluid rounded shadow-sm"> </div> <div class="col-md-6 col-lg-4"> <img src="{{ asset('template/img/6.jpg') }}" alt="Manajemen Obat" class="img-fluid rounded shadow-sm"> </div> <div class="col-md-6 col-lg-4"> <img src="{{ asset('template/img/7.jpg') }}" alt="Laporan Transaksi" class="img-fluid rounded shadow-sm"> </div> </div>
+<img src="{{ asset('template/img/3.jpg') }}" alt="Dashboard Medic" class="img-fluid rounded shadow-sm"> 
+<img src="{{ asset('template/img/4.jpg') }}" alt="Form Pasien" class="img-fluid rounded shadow-sm"> 
+<img src="{{ asset('template/img/5.jpg') }}" alt="Data Dokter" class="img-fluid rounded shadow-sm"> 
+<img src="{{ asset('template/img/6.jpg') }}" alt="Manajemen Obat" class="img-fluid rounded shadow-sm">  
+<img src="{{ asset('template/img/7.jpg') }}" alt="Laporan Transaksi" class="img-fluid rounded shadow-sm">
