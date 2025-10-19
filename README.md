@@ -18,9 +18,4 @@ Sistem mendukung pengelolaan stok obat, harga jual, serta pencatatan transaksi y
 📊 Laporan & Statistik
 Menyediakan tampilan data berupa laporan dan grafik untuk membantu analisis kinerja apotek atau klinik.
 
-🖼️ Tampilan Aplikasi
-<img src="{{ asset('template/img/3.jpg') }}" alt="Dashboard Medic" class="img-fluid rounded shadow-sm"> 
-<img src="{{ asset('template/img/4.jpg') }}" alt="Form Pasien" class="img-fluid rounded shadow-sm"> 
-<img src="{{ asset('template/img/5.jpg') }}" alt="Data Dokter" class="img-fluid rounded shadow-sm"> 
-<img src="{{ asset('template/img/6.jpg') }}" alt="Manajemen Obat" class="img-fluid rounded shadow-sm">  
-<img src="{{ asset('template/img/7.jpg') }}" alt="Laporan Transaksi" class="img-fluid rounded shadow-sm">
+
