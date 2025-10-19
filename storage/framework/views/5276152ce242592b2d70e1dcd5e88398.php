@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\mediclaravel\resources\views/frontend/home.blade.php ENDPATH**/ ?>
