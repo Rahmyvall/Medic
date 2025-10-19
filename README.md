@@ -1,26 +1,35 @@
-🩺 Medic
+<h2 class="mt-4 text-2xl font-bold">🩺 Medic</h2>
+<p class="mt-2">
+  <strong>Medic</strong> adalah sistem kasir (Point of Sales) dan manajemen produk obat yang dikembangkan menggunakan 
+  <strong>framework Laravel</strong> dengan pendekatan <strong>Test-Driven Development (TDD)</strong>.
+  Aplikasi ini dirancang untuk membantu klinik, apotek, atau fasilitas kesehatan dalam mengelola transaksi, data pasien, dokter, serta stok obat dengan efisien dan terstruktur.
+</p>
 
-Medic adalah sistem kasir (Point of Sales) dan manajemen produk obat yang dikembangkan menggunakan framework Laravel dengan pendekatan Test-Driven Development (TDD).
-Aplikasi ini dirancang untuk membantu klinik, apotek, atau fasilitas kesehatan dalam mengelola transaksi, data pasien, dokter, serta stok obat dengan efisien dan terstruktur.
+<h3 class="mt-4 text-xl font-semibold">⚙️ Fitur Utama Medic</h3>
 
-⚙️ Fitur Utama Medic
+<ul class="list-disc pl-5 mt-2 space-y-2">
+  <li><strong>🔐 Autentikasi Pengguna</strong> — Fitur Login dan Register memungkinkan pengguna membuat akun dan mengakses sistem dengan aman.</li>
+  <li><strong>👩‍⚕️ Manajemen Data Pasien & Dokter</strong> — Tambah, ubah, dan hapus data pasien maupun dokter melalui antarmuka yang intuitif.</li>
+  <li><strong>💊 Manajemen Obat & Transaksi</strong> — Kelola stok obat, harga jual, serta catat transaksi yang terintegrasi dengan laporan.</li>
+  <li><strong>📊 Laporan & Statistik</strong> — Tampilkan data dalam bentuk grafik dan laporan analisis kinerja apotek atau klinik.</li>
+</ul>
 
-🔐 Autentikasi Pengguna
-Fitur Login dan Register memungkinkan pengguna membuat akun dan mengakses sistem dengan aman.
-Sistem ini juga mendukung validasi dan proteksi terhadap akses yang tidak sah.
+<h3 class="mt-5 text-xl font-semibold">🖼️ Tampilan Backend</h3>
 
-👩‍⚕️ Manajemen Data Pasien & Dokter
-Pengguna dapat dengan mudah menambahkan, mengubah, dan menghapus data pasien maupun dokter melalui antarmuka yang intuitif dan responsif.
-
-💊 Manajemen Obat & Transaksi
-Sistem mendukung pengelolaan stok obat, harga jual, serta pencatatan transaksi yang terintegrasi dengan laporan penjualan.
-
-📊 Laporan & Statistik
-Menyediakan tampilan data berupa laporan dan grafik untuk membantu analisis kinerja apotek atau klinik.
-
-## Backend ## 
-<a><img src="public/3.jpg"><a>
-<a><img src="public/4.jpg"><a>
-<a><img src="public/5.jpg"><a>
-<a><img src="public/6.jpg"><a>
-<a><img src="public/7.jpg"><a>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-3">
+  <a href="{{ asset('template/img/3.jpg') }}" target="_blank">
+    <img src="{{ asset('template/img/3.jpg') }}" alt="Backend 1" class="img-fluid rounded shadow">
+  </a>
+  <a href="{{ asset('template/img/4.jpg') }}" target="_blank">
+    <img src="{{ asset('template/img/4.jpg') }}" alt="Backend 2" class="img-fluid rounded shadow">
+  </a>
+  <a href="{{ asset('template/img/5.jpg') }}" target="_blank">
+    <img src="{{ asset('template/img/5.jpg') }}" alt="Backend 3" class="img-fluid rounded shadow">
+  </a>
+  <a href="{{ asset('template/img/6.jpg') }}" target="_blank">
+    <img src="{{ asset('template/img/6.jpg') }}" alt="Backend 4" class="img-fluid rounded shadow">
+  </a>
+  <a href="{{ asset('template/img/7.jpg') }}" target="_blank">
+    <img src="{{ asset('template/img/7.jpg') }}" alt="Backend 5" class="img-fluid rounded shadow">
+  </a>
+</div>
