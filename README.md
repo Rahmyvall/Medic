@@ -13,23 +13,4 @@
   <li><strong>💊 Manajemen Obat & Transaksi</strong> — Kelola stok obat, harga jual, serta catat transaksi yang terintegrasi dengan laporan.</li>
   <li><strong>📊 Laporan & Statistik</strong> — Tampilkan data dalam bentuk grafik dan laporan analisis kinerja apotek atau klinik.</li>
 </ul>
-
-<h3 class="mt-5 text-xl font-semibold">🖼️ Tampilan Backend</h3>
-
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-3">
-  <a href="{{ asset('public/template/img/3.jpg') }}" target="_blank">
-    <img src="{{ asset('public/template/img/3.jpg') }}" alt="Backend 1" class="img-fluid rounded shadow">
-  </a>
-  <a href="{{ asset('public/template/img/4.jpg') }}" target="_blank">
-    <img src="{{ asset('public/template/img/4.jpg') }}" alt="Backend 2" class="img-fluid rounded shadow">
-  </a>
-  <a href="{{ asset('public/template/img/5.jpg') }}" target="_blank">
-    <img src="{{ asset('public/template/img/5.jpg') }}" alt="Backend 3" class="img-fluid rounded shadow">
-  </a>
-  <a href="{{ asset('public/template/img/6.jpg') }}" target="_blank">
-    <img src="{{ asset('public/template/img/6.jpg') }}" alt="Backend 4" class="img-fluid rounded shadow">
-  </a>
-  <a href="{{ asset('public/template/img/7.jpg') }}" target="_blank">
-    <img src="{{ asset('public/template/img/7.jpg') }}" alt="Backend 5" class="img-fluid rounded shadow">
-  </a>
 </div>
