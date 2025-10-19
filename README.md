@@ -18,4 +18,9 @@ Sistem mendukung pengelolaan stok obat, harga jual, serta pencatatan transaksi y
 📊 Laporan & Statistik
 Menyediakan tampilan data berupa laporan dan grafik untuk membantu analisis kinerja apotek atau klinik.
 
-
+## Backend ## 
+<a><img src="public/3.jpg"><a>
+<a><img src="public/4.jpg"><a>
+<a><img src="public/5.jpg"><a>
+<a><img src="public/6.jpg"><a>
+<a><img src="public/7.jpg"><a>
